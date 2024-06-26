@@ -1,2 +1,4 @@
-# my-app
- NoteKeeper App
+# NoteKeeper App
+
+
+ Note App created with React framework .
